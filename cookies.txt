@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.openemr.io	TRUE	/a/openemr/	FALSE	1999999999	OpenEMR	NPMDRmjPd%2Cx1xDC1haOLajvc7Zz0%2CsQgHCEzwRlxAfymMZIS
+demo.openemr.io	TRUE	/	FALSE	1999999999	SameSite	Strict
+
